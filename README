@@ -3,6 +3,12 @@ st - simple terminal
 st is a simple terminal emulator for X which sucks less.
 
 
+Patches applied
+---------------
+
+- solarized (https://st.suckless.org/patches/solarized)
+
+
 Requirements
 ------------
 In order to build st you need the Xlib header files.
@@ -27,6 +33,7 @@ the st terminfo entry with the following command:
     tic -sx st.info
 
 See the man page for additional details.
+
 
 Credits
 -------
